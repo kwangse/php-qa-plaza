@@ -1,2 +1,2 @@
-# php-qa-plaza
-php-book/php-qa-plaza
+# phpqaplaza
+php-book/phpqaplaza
